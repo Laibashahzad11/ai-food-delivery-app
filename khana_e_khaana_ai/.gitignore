@@ -1,0 +1,26 @@
+# Firebase credentials - NEVER commit this!
+service-account.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files (too large for git)
+data/*.csv
+data/*.pkl
+models/*.pkl
+
+# IDE files
+.idea/
+.vscode/
